@@ -2,8 +2,9 @@
   "name": "nodejs-web-server",
   "version": "1.0.0",
   "description": "dicoding Membangun Web Server menggunakan Node.js secara Native",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "keywords": [],
