@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtikhaA/nodejs-basic.git"
+  },
+  "author": "AtikhaA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtikhaA/nodejs-basic/issues"
+  },
+  "homepage": "https://github.com/AtikhaA/nodejs-basic#readme"
+}
